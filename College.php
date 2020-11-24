@@ -13,7 +13,7 @@
 	<div class="header">
 	 <h1>College</h1>
 	 <hr style='width:50%;' />
-	 <h2 style='color: #000000;'>Londres, John Hendrics</h2>
+	 <h2 style='color: #000000;'>Demegillo, Fritz Lowell</h2>
 	</div>
 	  
 
