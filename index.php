@@ -11,15 +11,15 @@
    <body>
     
 	<div class="header">
-	 <h1>My Pictures </h1>
+	 <h1> My Album </h1>
 	 <hr style='width:50%;' />
-	 <h2 style='color: #000000;'>Londres, John Hendrics</h2>
+	 <h2 style='color: #000000;'>Demegillo, Fritz Lowell</h2>
 	</div>
 	  
 	  <div class="responsive">
   <div class="gallery">
     <a href="Elementary.php">
-      <img src="Picture/nani.jpg" alt="nani?" width="600" height="400">
+      <img src="Picture/Elementary.jpg" alt="Elementary" width="600" height="400">
     </a>
     <div class="desc">Elementary</div>
   </div>
@@ -28,7 +28,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="High School.php">
-      <img src="Picture/meh.jpg" alt="Northern Lights" width="600" height="400">
+      <img src="Picture/Highschool.jpg" alt="Highschool Attire" width="600" height="400">
     </a>
     <div class="desc">High School</div>
   </div>
@@ -37,7 +37,7 @@
 <div class="responsive">
   <div class="gallery">
     <a  href="Senior High.php">
-      <img src="Picture/dim.jpg" alt="Mountains" width="600" height="400">
+      <img src="Picture/SHS.jpg" alt="Recollection Attire" width="600" height="400">
     </a>
     <div class="desc">Senior High</div>
   </div>
@@ -46,7 +46,7 @@
 <div class="responsive">
   <div class="gallery">
     <a  href="College.php">
-      <img src="Picture/dim.jpg" alt="Mountains" width="600" height="400">
+      <img src="Picture/College.jpg" alt="NSTP Uniform" width="600" height="400">
     </a>
     <div class="desc">College</div>
   </div>
@@ -55,12 +55,12 @@
 <div class="clearfix"></div>
 
 <div style="padding:6px;">
-  <p>I dont have picture in Elementary so enjoy!!!!</p>
+  <p>The following image are my Timeline pics during Elementary up to College. :) </p>
 </div>
 
   <!-- Site footer -->
     <footer class="footer">
-	<h5>Thanks For Visiting</h5>
+	<h5>Thanks For Visiting my Album</h5>
 	<hr/>
 	</footer>
 		
