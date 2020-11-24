@@ -48,7 +48,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="KDA_kai'sa.jpg">
-      <img src="PKDA_kai'sat.jpg" alt="Kai'sa" width="600" height="400">
+      <img src="KDA_kai'sat.jpg" alt="Kai'sa" width="600" height="400">
     </a>
     <div class="desc">Kai'sa</div>
   </div>
