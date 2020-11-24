@@ -20,7 +20,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="KDA_ahri.jpg">
-      <img src="Picture/d1.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="KDA_ahri.jpg" alt="Online Game Character 1" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -30,7 +30,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="KDA_evelyn.jpg">
-      <img src="Picture/d2.jpg" alt="Forest" width="600" height="400">
+      <img src="KDA_evelyn.jpg" alt="Online Game Character 2" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -39,7 +39,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="KDA_kai'sa.jpg">
-      <img src="Picture/d3.jpg" alt="Northern Lights" width="600" height="400">
+      <img src="KDA_kai'sa.jpg" alt="Online Game Character 3" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -48,7 +48,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="KDA_akali.jpg">
-      <img src="Picture/d4.jpg" alt="Mountains" width="600" height="400">
+      <img src="KDa_akali.jpg" alt="Online Game Character 4" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
