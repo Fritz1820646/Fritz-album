@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Londres- Photo Album: Senior High School</title>
+      <title>Demegillo- Photo Album: Senior High School</title>
 	  <meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="Style3.css" />
 		<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
