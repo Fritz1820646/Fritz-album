@@ -48,7 +48,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="KDA_akali.jpg">
-      <img src="KDa_akali.jpg" alt="Online Game Character 4" width="600" height="400">
+      <img src="KDA_akali.jpg" alt="Online Game Character 4" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
