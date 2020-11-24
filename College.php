@@ -57,8 +57,7 @@
 <div class="clearfix"></div>
 
 <div style="padding:6px;">
-  <p>Sorry Sir idon have picture in Elementary. thank you!</p>
-  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
+  <p>ENJOY!!</p>
 </div>
 		
    </body>
