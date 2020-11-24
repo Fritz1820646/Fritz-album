@@ -56,6 +56,7 @@
 
 <div style="padding:6px;">
   <p>THE FOLOWING IMAGES ARE MY TIMELINE PICS DURING ELEMENTARY UP TO COLLEGE DAYS, INSIDE OF THEM ARE THE IMAGES OF MY FAVORITE ONLINE CHARACTERS :) </p>
+	<p> PS: Im sorry sir I don't have that much pictures of my self, instead I replaced them with my favorite online characters </p>
 </div>
 
   <!-- Site footer -->
