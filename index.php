@@ -55,12 +55,12 @@
 <div class="clearfix"></div>
 
 <div style="padding:6px;">
-  <p>The following image are my Timeline pics during Elementary up to College. :) </p>
+  <p>THE FOLOWING IMAGES ARE MY TIMELINE PICS DURING ELEMENTARY UP TO COLLEGE DAYS, INSIDE OF THEM ARE THE IMAGES OF MY FAVORITE ONLINE CHARACTERS :) </p>
 </div>
 
   <!-- Site footer -->
     <footer class="footer">
-	<h5>Thanks For Visiting my Album</h5>
+	<h5>Thank You For Visiting my Album</h5>
 	<hr/>
 	</footer>
 		
